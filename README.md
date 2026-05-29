@@ -27,6 +27,7 @@ As an honor student with an academic focus on computer science, I am looking for
 * Pirate Translator joke project in Java for AP Computer Science Programing  
 * Short Films for Film Camp using Adobe Premiere Pro  
 * Connect Four AI Player for Artificial Intelligence class
+* Bulit MTG deck using SQL
 
 ## **Extracurriculars**
 
